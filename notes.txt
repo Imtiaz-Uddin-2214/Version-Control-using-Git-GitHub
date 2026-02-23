@@ -1,0 +1,4 @@
+Git Branching Notes:
+- Branches allow parallel development.
+- Changes remain isolated until merged.
+- Helps in collaborative workflows.
